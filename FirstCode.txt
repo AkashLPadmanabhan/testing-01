@@ -1,2 +1,3 @@
 Hello world
 I just added a second line to check changes.
+commit without staging
