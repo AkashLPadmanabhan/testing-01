@@ -3,3 +3,5 @@ I just added a second line to check changes.
 commit without staging
 Just wanna check the differences,
  i have added
+
+I have added credentials and readme
