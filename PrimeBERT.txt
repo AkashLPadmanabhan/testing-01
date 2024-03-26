@@ -1,1 +1,3 @@
-BERT (Bidirectional Encoder Representations from Transformers) is an advanced language model that revolutionizes natural language processing by understanding context and polysemous words effectively
+BERT (Bidirectional Encoder Representations from Transformers) is an advanced language model that revolutionizes natural language processing by understanding context and polysemous words effectively.
+
+Amazon Prime is a subscription service offered by Amazon that provides members with benefits such as free two-day shipping, streaming of movies and TV shows, music, and exclusive deals.
