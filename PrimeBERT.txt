@@ -1,0 +1,1 @@
+BERT (Bidirectional Encoder Representations from Transformers) is an advanced language model that revolutionizes natural language processing by understanding context and polysemous words effectively
